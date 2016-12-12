@@ -1,0 +1,31 @@
+Year,Subject ,Month ,Test type ,% marks ,% Syllabus,Workload before,Subject Difficulty ,Teacher 
+2015,English ,september,unit test ,66.66,15,low,high ,bad 
+2015,math ,september,unit test ,92.22222222,10,low,low ,medium 
+2015,physics ,september,unit test ,88,20,low,medium ,bad
+2015,chemistry ,september,unit test ,96,10,low,low ,good
+2015,economics,september,unit test ,84,25,low,low ,medium 
+2015,french ,september,unit test ,91.66666667,50,low,high ,good 
+2015,English ,november ,assesment,75,25,high ,high,bad
+2015,math ,november ,assesment,82.77777778,25,high ,low ,medium 
+2015,physics ,november ,assesment,81.48148148,40,high ,medium ,bad
+2015,chemistry ,november ,assesment,88.88888889,30,high ,medium ,good 
+2015,economics,november ,assesment,68,25,high ,low ,bad
+2015,french ,november ,assesment,88.57142857,50,high ,high ,good
+2016,English ,may ,assesment,80,25,high ,high ,good
+2016,math ,may ,assesment,81.66666667,50,high ,high ,medium 
+2016,physics ,may ,assesment,85.18518519,70,high ,high,medium 
+2016,chemistry ,may ,assesment,87.40740741,60,high ,medium ,good
+2016,economics,may ,assesment,90,50,high ,low ,bad
+2016,french ,may ,assesment,78.57142857,70,high ,high,bad
+2016,English ,september,unit test ,76.66666667,15,low,high ,good 
+2016,math ,september,unit test ,95,20,low,medium ,medium 
+2016,physics ,september,unit test ,84,25,low,medium ,medium 
+2016,chemistry ,september,unit test ,86,20,low,medium ,good
+2016,economics,september,unit test ,100,25,low,low ,medium 
+2016,french ,september,unit test ,80,40,low,high,bad
+2016,English ,november ,assesment,75,50,high ,high ,good 
+2016,math ,november ,assesment,76,100,high ,high,medium 
+2016,physics ,november ,assesment,86.66666667,100,high ,high,good
+2016,chemistry ,november ,assesment,81.66666667,100,high ,high ,good
+2016,economics,november ,assesment,95,50,high ,low ,medium 
+2016,french ,november ,assesment,82,100,high ,high,bad 
